@@ -72,4 +72,5 @@ Aspiring Data Analyst | SQL | Excel | Power BI
 
 Give it a ⭐ on GitHub!
 
-<img width="1271" height="720" alt="image" src="https://github.com/user-attachments/assets/ce5409e1-cfe4-4e18-bbe3-44ea17982d56" />
+<img width="1025" height="580" alt="image" src="https://github.com/user-attachments/assets/00492c28-4561-44b8-a930-be0fcda5506a" />
+
