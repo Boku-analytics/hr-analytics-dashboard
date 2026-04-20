@@ -20,3 +20,4 @@ This project analyzes employee performance, KPI scores, attendance, and attritio
 
 ## 🚀 Author
 Sree Biswas
+<img width="1271" height="720" alt="image" src="https://github.com/user-attachments/assets/ce5409e1-cfe4-4e18-bbe3-44ea17982d56" />
