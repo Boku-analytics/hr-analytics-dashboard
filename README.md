@@ -93,16 +93,6 @@ The dashboard helps in identifying key workforce insights and supports data-driv
 - Enhance dashboard interactivity with drill-through features  
 - Build SQL-based backend for dynamic data retrieval  
 
-
-## How to Use
-
-1. Download the dataset
-2. Open Power BI Desktop
-3. Load the dataset
-4. Explore the interactive dashboard
-
----
-
 ## Author
 
 **Sree Biswas**
