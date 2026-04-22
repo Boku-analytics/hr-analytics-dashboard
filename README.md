@@ -1,100 +1,69 @@
-# HR Analytics Dashboard
+HR Analytics Dashboard – Power BI Project
 
-<img width="1430" height="805" alt="image" src="https://github.com/user-attachments/assets/12519466-4cc5-4f19-ac79-f7cb47664b92" />
+<img width="1440" height="807" alt="image" src="https://github.com/user-attachments/assets/8578ff97-b743-4cd7-ad44-83c554b42046" />
 
-## Tools & Technologies
+Hi, I’m Srijee Biswas
+This project is part of my transition from HR (6+ years in Talent Acquisition) to Data Analytics, where I’m combining domain knowledge with tools like Excel, SQL, and Power BI to generate meaningful business insights.
 
-* SQL
-* Microsoft Excel
-* Power BI
+Project Overview
+I built an HR Analytics Dashboard in Power BI to analyze workforce data and uncover insights related to attrition, employee performance, and departmental trends.
+The goal of this project was to move beyond basic reporting and understand how data can support better people and business decisions.
 
-Business problem :
-## Business Problem
-Organizations often struggle to track employee performance and identify attrition risks. This project aims to analyze HR data to uncover patterns in employee performance, attendance, and attrition risk to support better decision-making.
+Business Problems Addressed
+Identifying employees at risk of attrition
+Understanding department-wise performance trends
+Analyzing employee distribution and workload across teams
+Evaluating the relationship between experience and KPI performance
+Exploring salary distribution patterns across departments
 
+Tools & Skills Used
+Power BI – Dashboard creation, data modeling, visualization
+Excel – Data cleaning, transformation, KPI calculations
+SQL (Basic) – Data understanding and querying concepts
+Data Analysis – KPI tracking, trend analysis, insight generation
 
-## Skills Demonstrated
+Dashboard Features
+KPI Cards:
+Attrition Risk %
+Average Attendance %
+Average KPI Score
 
-* Data Cleaning
-* Data Transformation
-* Data Visualization
-* KPI Analysis
-* Dashboard Design
+Visual Insights:
+Attrition Risk Distribution (Low / Medium / High)
+Department-wise Employee Count
+Performance Rating Distribution
+Salary Distribution
+Experience vs KPI Analysis
+KPI Score comparison across departments
 
-**### “Data Cleaning / Preparation”**
-## Data Cleaning & Preparation
-- Removed duplicate records  
-- Checked for missing values  
-- Standardized column names  
-- Ensured correct data types  
-- Created calculated fields for KPI and Attrition Risk
+Key Insights
+A significant portion of employees fall under low attrition risk, but certain departments show higher risk concentration
+KPI scores vary across departments, indicating performance gaps
+Employees with higher experience tend to show better KPI performance trends
+Salary distribution is uneven, highlighting potential areas for compensation analysis
 
-### **“DAX Measures”**
-## DAX Measures Used
-- Avg KPI Score = AVERAGE(KPI_Score)  
-- Avg Attendance = AVERAGE(Attendance_Percentage)  
-- Attrition Risk % = (High Risk Employees / Total Employees) * 100  
+Key Learnings
+Hands-on experience in data cleaning and transformation
+Building interactive dashboards in Power BI
+Understanding how HR data translates into business insights
+Improving analytical thinking and storytelling with data
 
-“Key Business Insights”
-##  Key Business Insights
-- High attrition risk employees have lower KPI scores  
-- Employees with higher attendance show better performance  
-- HR department has the highest employee count  
-- Senior employees tend to have higher KPI scores  
+My Transition Story
+With 6+ years in HR, I have worked closely with hiring data, employee metrics, and performance tracking.
+This project reflects my shift from:
+➡ Managing people operations
+➡ To analyzing the data behind those operations
 
-“Dashboard Features”
-##  Dashboard Features
-- KPI Cards for quick insights  
-- Department-wise employee distribution  
-- Performance rating analysis  
-- Attrition risk segmentation  
-- Salary distribution analysis  
-- Interactive filters (slicers)
+What I’m Currently Working On
+Strengthening SQL for data querying
+Advanced Excel for data analysis
+Building more end-to-end analytics projects
+Exploring Python for data analysis
 
+Open to Opportunities
+I’m actively looking for Data Analyst / HR Analytics roles where I can contribute with both:
+Data /domain understanding
+Analytical and technical skills
 
-## Project Overview
-
-This project focuses on analyzing employee data to track performance, KPI scores, attendance trends, and attrition risk using Power BI.
-The dashboard helps in identifying key workforce insights and supports data-driven decision-making.
----
-
-## KPI Features
-
-* KPI analysis across departments
-* Employee performance tracking
-* Attrition risk identification (Low, Medium, High)
-* Attendance monitoring
-* Department-wise salary and performance insights
-
----
-
-##  Key Insights
-
-* Employees with lower KPI scores show higher attrition risk
-* Sales and IT departments have strong performance trends
-* High performers consistently maintain high attendance
-* Identified top-performing employees based on KPI and ratings
-
----
-
-## Files Included
-
-* Dataset (Excel file)
-* Power BI Dashboard (.pbix file)
-* Dashboard screenshots
-
----
-
-**“Future Improvements”**
-
-## Future Improvements
-- Add predictive analytics for attrition  
-- Integrate real-time HR data  
-- Enhance dashboard interactivity with drill-through features  
-- Build SQL-based backend for dynamic data retrieval  
-
-## Author
-
-**Sree Biswas**
-Aspiring Data Analyst | SQL | Excel | Power BI
-
+Feedback
+I’m continuously learning — feedback, suggestions, or connections are always welcome 😊
